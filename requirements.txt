@@ -1,0 +1,5 @@
+flask
+flask-cors
+requests
+qrcode
+pillow  # qrcode 需要 pillow 来生成图片 
